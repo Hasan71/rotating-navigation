@@ -37,11 +37,11 @@ body {
     transition: transform 0.5s linear;
 }
 
-.container.show-nav .cirlce{
+.container.show-nav .circle{
     transform: rotate(-70deg);
 }
 
-.cirlce button {
+.circle button {
     cursor: pointer;
     position: absolute;
     top: 50%;
